@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\bin\Debug\net8.0\GenericsOperatorOverload.exe
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\bin\Debug\net8.0\GenericsOperatorOverload.deps.json
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\bin\Debug\net8.0\GenericsOperatorOverload.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\bin\Debug\net8.0\GenericsOperatorOverload.dll
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\bin\Debug\net8.0\GenericsOperatorOverload.pdb
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.dll
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\refint\GenericsOperatorOverload.dll
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.pdb
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\GenericsOperatorOverload.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\GenericsOperatorOverload\GenericsOperatorOverload\obj\Debug\net8.0\ref\GenericsOperatorOverload.dll

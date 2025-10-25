@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|c:\\users\\baloglan\\desktop\\c# task\\genericsoperatoroverload\\genericsoperatoroverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|solutionrelative:genericsoperatoroverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|c:\\users\\baloglan\\desktop\\c# task\\genericsoperatoroverload\\genericsoperatoroverload\\models\\humans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|solutionrelative:genericsoperatoroverload\\models\\humans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|c:\\users\\baloglan\\desktop\\c# task\\genericsoperatoroverload\\genericsoperatoroverload\\models\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F837613-DCB2-4D0F-9384-2A4B7CC3E531}|GenericsOperatorOverload\\GenericsOperatorOverload.csproj|solutionrelative:genericsoperatoroverload\\models\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humans.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Models\\Humans.cs",
+              "RelativeDocumentMoniker": "GenericsOperatorOverload\\Models\\Humans.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Models\\Humans.cs",
+              "RelativeToolTip": "GenericsOperatorOverload\\Models\\Humans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:12:04.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Models\\Animals.cs",
+              "RelativeDocumentMoniker": "GenericsOperatorOverload\\Models\\Animals.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Models\\Animals.cs",
+              "RelativeToolTip": "GenericsOperatorOverload\\Models\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:11:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsOperatorOverload\\Program.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\GenericsOperatorOverload\\GenericsOperatorOverload\\Program.cs",
+              "RelativeToolTip": "GenericsOperatorOverload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:57:55.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
